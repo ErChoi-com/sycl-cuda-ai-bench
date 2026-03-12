@@ -74,6 +74,6 @@ For each hypothesis, record:
 
 ## 8. Next Experiment Queue
 
-1. 
-2. 
-3. 
+- Sweep tile sizes (8×8, 16×16, 32×32) for tiled GEMM and transpose; find peak occupancy per GPU.
+- Fused softmax-attention pass: measure latency reduction vs. three-stage baseline.
+- Conv2D with blocked NHWC layout vs. NCHW to isolate layout impact on cache reuse.

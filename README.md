@@ -50,4 +50,4 @@ Outputs:
 ## Analysis Docs
 
 - `docs/perf_analysis.md`
-- `docs/blog_post_draft.md`
+- `docs/writeup.md`
