@@ -1,0 +1,9 @@
+build/
+results/*.csv
+results/*.qdrep
+results/*.nsys-rep
+results/*.ncu-rep
+results/vtune_*/
+results/advisor_*/
+*.optrpt
+*.tmp
